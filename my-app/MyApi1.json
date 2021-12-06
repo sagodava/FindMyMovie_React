@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Dangal",
+      "hero": "AmirKhan",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Bheemla",
+      "hero": "pk",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Ganga",
+      "hero": "Ntr",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Salar",
+      "hero": "Balayya",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Mirchi",
+      "hero": "Prabhas",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "Veera",
+      "hero": "Vijay",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Durga",
+      "hero": "Ajith",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "name": "Nayak",
+      "hero": "Super star",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Mrugam",
+      "hero": "Jagapathi",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "name": "Pushpa",
+      "hero": "AA",
+      "rating": 5
+    }
+  ]
+}
